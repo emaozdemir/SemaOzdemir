@@ -1,4 +1,10 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQGqstc5QJ5ExA/article-cover_image-shrink_600_2000/0/1678370397394?e=2147483647&v=beta&t=2iFi-wrGfipm3oZlsLUaRuGg3whsujV6SqpF5BlkxSE)
+
+<p align="center">
+  <img src="https://www.wedevx.co/blog/wp-content/uploads/2023/06/List-of-Powerful-SDET-Tools.jpeg" width="500" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Sema</h1>
 <h3 align="center">Software Test Engineer</h3>
 
