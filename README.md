@@ -104,9 +104,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://www.wedevx.co/blog/wp-content/uploads/2023/06/List-of-Powerful-SDET-Tools.jpeg" width="500" />
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emaozdemir&show_icons=true&locale=en&layout=compact" alt="emaozdemir" /></p>
 
